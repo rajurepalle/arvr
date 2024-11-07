@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "arc",
+  "identifier": "texture:135078-f2c84c25-8ebb-4316-9703-ec14917f5de5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "419b5ec8d53e99a1820aa0cbf025390a",
+  "assetLocator": "textures/arc.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 539,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 463,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "419b5ec8d53e99a1820aa0cbf025390a",
+      "colorCount": 33757,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 6.0471578949466975,
+      "pixelsHigh": 539,
+      "pixelsWide": 463
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "modelName": "texture",
+  "name": "doctor",
+  "identifier": "texture:127772-f2c84c25-8ebb-4316-9703-ec14917f5de5",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "05b83a263386ea06823ad6772f13324a",
+  "assetLocator": "textures/doctor.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "folder": "",
+  "hasOfflineMipmaps": false,
+  "height": 512,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 512,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "05b83a263386ea06823ad6772f13324a",
+      "colorCount": 255,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 4.163760382030519,
+      "pixelsHigh": 512,
+      "pixelsWide": 512
+    }
+  ]
+}
